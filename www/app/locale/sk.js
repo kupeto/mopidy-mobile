@@ -100,7 +100,7 @@
         'Volume keys': 'Hlasitosť',
         '{count} seconds': '{count, plural, =1{1 sekunda} =2{2 sekundy} =3{3 sekundy} =4{4 sekundy} other{# sekund}}',
         '{count} tracks': '{count, plural, =0{skladieb} =1{1 skladba} =2{2 skladby} =3{3 skladby} =4{4 skladby} other{# skladieb}}',
-        '{index} of {count}': '{index} of {count}',
+        '{index} of {count}': '{index} z {count}',
       }
     });
   });
